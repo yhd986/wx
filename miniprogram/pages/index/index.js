@@ -6,7 +6,7 @@ Page({
   data: {
     showUploadTip: false,
     powerList: [{
-      title: '云函数',
+      title: '云函数-yhd',
       tip: '安全、免鉴权运行业务代码',
       showItem: false,
       item: [{
@@ -17,11 +17,11 @@ Page({
       //   title: '微信支付'
       // },
        {
-        title: '生成小程序码',
+        title: '生成小程序码-yhd',
         page: 'getMiniProgramCode'
       },
       // {
-      //   title: '发送订阅消息',
+      //   title: '发送订阅消息',yhd
       // }
     ]
     }, {
